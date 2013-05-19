@@ -1,0 +1,6 @@
+# reg-spec
+
+
+## License
+
+MIT
